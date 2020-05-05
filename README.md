@@ -4,5 +4,13 @@
 # Kelas: IF-41-10                    #
 ######################################
 
-# add_to_data_pool -> menambah data ke table add_to_data_pool
-# mining           -> Melakukan mining
+ add_to_data_pool -> menambah data ke table data_pool
+ mining           -> Melakukan mining
+
+ butuh
+  
+threading,
+time,
+datetime,
+mysql.connector,
+hashlib
