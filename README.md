@@ -1,9 +1,8 @@
-# Tugas-Blockchain
-Tugas Block Chain ICM 3
-menggunakan library, hashlib, json, datetime, time
+######################################
+# Nama : M. Mahfi Nurandi Karsana    #
+# NIM  : 1301174473                  # 
+# Kelas: IF-41-10                    #
+######################################
 
-Proof of konsep, 
-                - Program ada pada structure,py
-Future Features , MongoDB
-                 - UI
-                 - WEB, using Node - Red ?
+# add_to_data_pool -> menambah data ke table add_to_data_pool
+# mining           -> Melakukan mining
